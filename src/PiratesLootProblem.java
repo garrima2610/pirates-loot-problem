@@ -13,7 +13,7 @@ public class PiratesLootProblem {
         arr.add(1);
         arr.add(9);
         arr.add(5);
-        System.out.println(p.getMinimumDays(arr));
+        System.out.println("The number of days: " + p.getMinimumDays(arr));
     }
 
     int count = 0;
