@@ -1,8 +1,8 @@
 import java.util.ArrayList;
 
-public class PiratesLootClass {
+public class PiratesLootProblem {
     public static void main(String[] args) {
-        PiratesLootClass p = new PiratesLootClass();
+        PiratesLootProblem p = new PiratesLootProblem();
         ArrayList<Integer> arr = new ArrayList<>();
         arr.add(3);
         arr.add(6);
